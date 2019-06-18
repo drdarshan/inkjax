@@ -1,2 +1,2 @@
-# inkjax
-Create equations in Inkscape without a LaTeX installation
+# InkJax
+Create equations in Inkscape without a full-blown LaTeX installation
